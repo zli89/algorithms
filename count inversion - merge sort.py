@@ -1,6 +1,6 @@
 import random
 
-# merge to sorted arrays and count split inversions
+# merge two sorted arrays and count split inversions
 def merge_and_countSplitInv(b, c):
     a = []
     z = 0
