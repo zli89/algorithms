@@ -17,5 +17,5 @@ class Solution:
             if square_mid < x:
                 low = mid
             elif sqaure_mid > x:
-                hight = mid
+                high = mid
         return low
